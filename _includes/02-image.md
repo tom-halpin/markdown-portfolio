@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Test Image](https://github.com/dxc-technology/ebook-pe-dojo/blob/main/assets/cover.jpg)
